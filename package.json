@@ -1,0 +1,17 @@
+{
+  "name": "mailchimp-adder",
+  "version": "0.1.0a",
+
+  "dependencies": {
+    "restify": "*",
+    "mailchimp": "*",
+
+    "coffee-script": "*"
+  },
+
+  "scripts": {
+    "start": "coffee server.coffee"
+  },
+
+  "private": true
+}
